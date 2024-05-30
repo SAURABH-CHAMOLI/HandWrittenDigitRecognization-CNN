@@ -22,7 +22,7 @@ Testing: The trained model is evaluated on the test set to measure its accuracy 
 Visualization: The results can be visualized using confusion matrices and sample predictions to understand where the model performs well and where it might need improvements.
 Performance:
 
-Accuracy: CNN models typically achieve high accuracy on the MNIST dataset, often exceeding 99%.
+Accuracy: CNN models typically achieve high accuracy on the MNIST dataset, often exceeding 98%.
 Loss: The training and validation loss are monitored to ensure the model is learning effectively and not overfitting.
 Project Benefits:
 High Accuracy: The use of CNNs, which are particularly effective for image recognition tasks, ensures high accuracy in digit recognition.
